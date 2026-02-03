@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BangaloreGainerApp/static/css/main.f855e6bc.css",
+    "main.js": "/BangaloreGainerApp/static/js/main.d2a4e7cc.js",
+    "static/js/453.358ca371.chunk.js": "/BangaloreGainerApp/static/js/453.358ca371.chunk.js",
+    "static/media/logo.svg": "/BangaloreGainerApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BangaloreGainerApp/index.html",
+    "main.f855e6bc.css.map": "/BangaloreGainerApp/static/css/main.f855e6bc.css.map",
+    "main.d2a4e7cc.js.map": "/BangaloreGainerApp/static/js/main.d2a4e7cc.js.map",
+    "453.358ca371.chunk.js.map": "/BangaloreGainerApp/static/js/453.358ca371.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d2a4e7cc.js"
+  ]
+}
